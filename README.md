@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krushna Naghate</h1>
-<h3 align="center">React Native Developer | 3+ Years Experience | Passionate about building efficient & scalable mobile apps</h3>
+<h3 align="center">React Native Developer | 4 Years Experience | Passionate about building efficient & scalable mobile apps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krushna-naghate-137975222" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
