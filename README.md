@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 React Native Developer with **3+ years** of experience in building scalable mobile and web applications.
+- 🚀 React Native Developer with **4 years** of experience in building scalable mobile and web applications.
 - 🧩 Skilled in **Redux**, **Firebase**, **CI/CD**, and **real-time systems** (Socket.io).
 - 🔥 Passionate about creating pixel-perfect UIs and smooth user experiences.
 - 🔍 Advocate for clean code, **SOLID principles**, and performance optimization.
